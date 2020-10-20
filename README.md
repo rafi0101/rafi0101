@@ -9,6 +9,7 @@ I´m Raphael, 19 y.o. and learning system administrator
   ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
   ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+  ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains)
   ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
   ![Arduino](https://img.shields.io/badge/Arduino-black?style=flat-square&logo=arduino)
 
@@ -25,7 +26,6 @@ I´m Raphael, 19 y.o. and learning system administrator
   ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
   ![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)
-  ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains)
   ![MaterialUI](https://img.shields.io/badge/-MatrialUI-0081CB?style=flat-square&logo=material-UI)
   ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
   ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
