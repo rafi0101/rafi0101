@@ -28,6 +28,8 @@ I´m Raphael, system administrator in germany bavaria
   ![Logstash](https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=logstash)
   ![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana)
   ![Icinga2](https://img.shields.io/badge/Icinga2-06062C?style=flat-square&logo=icinga)
+  ![Golang](https://img.shields.io/badge/Golang-06062C?style=flat-square&logo=go)
+  ![Angular](https://img.shields.io/badge/Angular-06062C?style=flat-square&logo=angular)
 
   ![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)
   ![MaterialUI](https://img.shields.io/badge/-MatrialUI-0081CB?style=flat-square&logo=material-UI)
